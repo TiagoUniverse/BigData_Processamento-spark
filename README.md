@@ -16,6 +16,11 @@ Fazer o processamento de uma base de dados com o Spark.
 https://colab.research.google.com/drive/1pFZqGaN0kH2iTYMSLCc4FjkSmoKuoWRR?usp=sharing
 
 
+## 🔗 Link do Dataset W.H.O
+
+
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/life-expectancy-at-birth-(years)
+
 ## ☕ Desenvolvido por:
 
 <table>
