@@ -13,6 +13,19 @@ Fazer o processamento de uma base de dados com o Spark.
 
 ---
 
+## Contextualização:
+Neste contexto, estamos lidando com dados relacionados à saúde, especificamente fornecidos pela Organização Mundial da Saúde (OMS). A nossa atenção se volta para a expectativa de vida em diferentes países.
+
+## Cenário de Dados:
+O cenário de dados é a área de saúde, e as informações são originárias da World Health Organization (OMS).
+
+## Problema ou Pergunta/Hipótese Relevantes:
+Uma questão importante a ser respondida com base nos dados é a identificação dos países que apresentam as maiores expectativas de vida, considerando tanto ambos os sexos quanto cada sexo individualmente. Este é um indicador fundamental que reflete as condições de vida em diferentes nações.
+
+## Tipos e Escala das Variáveis:
+As variáveis em análise são quantitativas e contínuas, expressas, por exemplo, em anos (ex: 75.9). Esses números representam a expectativa de vida em cada país, e quanto maior o valor, melhores são as condições de vida nesse local.
+
+
 ## 🔗 Link do repositório com todo o projeto
 
 https://colab.research.google.com/drive/1pFZqGaN0kH2iTYMSLCc4FjkSmoKuoWRR?usp=sharing
