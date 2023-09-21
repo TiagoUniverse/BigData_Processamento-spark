@@ -8,7 +8,9 @@ Este repositório vai armazenar um trabalho da disciplina de Big Data (Ou pode s
 ---
 
 ## 🎯 Objetivo
+
 Fazer o processamento de uma base de dados com o Spark.
+
 ---
 
 ## 🔗 Link do repositório com todo o projeto
